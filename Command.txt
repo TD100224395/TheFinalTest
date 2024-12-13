@@ -1,0 +1,3 @@
+3) git add MyFile.txt
+4) git add Info/
+5) git config user.name Tyler_Info
