@@ -1,3 +1,7 @@
 3) git add MyFile.txt
 4) git add Info/
 5) git config user.name Tyler_Info
+	git add Command.txt
+6) git status
+	I learned that because MyFile.txt was added and then changed the staging area still has the old state and is also tracking that new changes have been made 
+
